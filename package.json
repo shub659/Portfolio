@@ -2,7 +2,7 @@
   "homepage": "https://shub659.github.io/Portfolioshubham/",
   "name": "saadpasta.github.io",
   "version": "0.1.0",
-  "private": true,
+  "private": False,
   "dependencies": {
     "@apollo/react-hooks": "^3.1.4",
     "apollo-boost": "^0.4.4",
